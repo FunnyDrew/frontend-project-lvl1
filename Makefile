@@ -9,3 +9,8 @@ publish:
 
 lint:
 	npx eslint .
+
+giting:
+	git add .
+	git commit -m 'newstage'
+	git push origin

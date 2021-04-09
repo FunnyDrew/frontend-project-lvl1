@@ -3,3 +3,6 @@
 
 ### CodeClimate status:
 [![Maintainability](https://api.codeclimate.com/v1/badges/0f576fd51ede127c6af9/maintainability)](https://codeclimate.com/github/FunnyDrew/frontend-project-lvl1/maintainability)
+
+### GitHub Action Status
+[![CI](https://github.com/FunnyDrew/frontend-project-lvl1/actions/workflows/build.yml/badge.svg)](https://github.com/FunnyDrew/frontend-project-lvl1/actions/workflows/build.yml)
