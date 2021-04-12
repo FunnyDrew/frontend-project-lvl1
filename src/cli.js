@@ -7,4 +7,5 @@ export default () => {
   console.log(greetings);
   const name = readlineSync.question(greetingsQuestion);
   console.log(`Hello, ${name}!`);
+  return name;
 };
