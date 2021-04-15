@@ -8,7 +8,11 @@
   },
   "bin": {
     "brain-games": "bin/brain-games.js",
-    "brain-even": "bin/brain-even.js"
+    "brain-even": "bin/brain-even.js",
+    "brain-calc": "bin/brain-calc.js",
+    "brain-gcd": "bin/brain-gcd.js",
+    "brain-progerssion": "bin/brain-progression.js",
+    "brain-prime": "bin/brain-prime.js"
   },
   "type": "module",
   "repository": {
@@ -23,6 +27,7 @@
   },
   "homepage": "https://github.com/FunnyDrew/frontend-project-lvl1#readme",
   "dependencies": {
+    "is-number-prime": "^1.0.1",
     "readline-sync": "^1.4.10"
   },
   "devDependencies": {
